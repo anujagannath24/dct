@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	int N = 882;
+	int N;
 	int samlp_rate, freq_resl;
 	fstream myfile;
 	myfile.open("C:\\Anu\\academics\\Computer_Audio\\A2\\sin_20000Hz_-3dBFS_3s.dat", std::ios_base::in);
